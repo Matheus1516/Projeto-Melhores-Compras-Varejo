@@ -1,5 +1,5 @@
 # Projeto-Melhores-Compras-Varejo
-Projeto acadêmico que simula a transformação digital da empresa fictícia Melhores Compras LTDA. Desenvolve um modelo de dados relacional para gerenciar vídeos de produtos no e-commerce e um algoritmo em Python para classificar a satisfação dos atendimentos do SAC.
+Projeto realizado em grupo que simula a transformação digital da empresa fictícia Melhores Compras LTDA. Desenvolvemos o modelo relacional do banco de dados, as consultas SQL e o código em Python responsável por processar e analisar os dados.
 
 Modelo lógico do banco de dados — estrutura das entidades e relacionamentos
 
